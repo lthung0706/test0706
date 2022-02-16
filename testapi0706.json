@@ -1,0 +1,21 @@
+[{
+    "sku": 1,
+    "name": "product 1",
+    "image": "/image/a1",
+    "regular": 9.99,
+    "salePrice": 9.99,
+    "onSale": false,
+    "shortDecription": "adsasdasdasdasdasd",
+    "customReviewAverage": 4.5
+   },
+   {
+    "sku": 1,
+    "name": "product 1",
+    "image": "/image/a1",
+    "regular": 9.99,
+    "salePrice": 9.99,
+    "onSale": false,
+    "shortDecription": "adsasdasdasdasdasd",
+    "customReviewAverage": 4.5
+    
+   }]
